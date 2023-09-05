@@ -1,0 +1,12 @@
+.maRace {
+  background-color: hsl(230, 9%, 56%);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 2rem;
+}
+
+.avatar {
+  border-radius: 50%;
+  max-width: 50%;
+}
